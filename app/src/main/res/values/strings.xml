@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyChat</string>
+    <string name="enter_confirm_password">Confirm Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+</resources>
